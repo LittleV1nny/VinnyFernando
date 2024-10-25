@@ -1,6 +1,6 @@
 # Olá! Eu sou o VinnyFernando!
 
-- ✍️ Hoje estudo Front-End pelo curso SENAI
+- ✍️ Hoje estudo programação Front-End pelo curso SENAI
 - 📩 Contate-me no email: vinifssilva@gmail.com
 
 <picture>
